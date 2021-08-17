@@ -1,0 +1,1 @@
+<img align="left" alt="jnordan132's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnordan132&layout=compact">
