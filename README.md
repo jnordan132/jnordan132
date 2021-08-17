@@ -1,2 +1,2 @@
 <img align="left" alt="jnordan132's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnordan132&layout=compact">
-<img align="right" alt="jnordan132's GitHub Rating" src="https://github-readme-stats.vercel.app/api?username=jnordan132&show_icons=true&theme=radical">
+<img align="right" alt="jnordan132's GitHub Rating" src="https://github-readme-stats.vercel.app/api?username=jnordan132&show_icons=true&theme=default">
