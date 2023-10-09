@@ -1,13 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <link rel="stylesheet" href="devicon.min.css">
 
-# Stats
-
-<div style="text-align: center">
-    <img alt="jnordan132's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnordan132&layout=compact" width="357">
-    <img alt="jnordan132's GitHub Rating" src="https://github-readme-stats.vercel.app/api?username=jnordan132&hide=contribs&theme=default" width="457"> 
-</div>
-
 # Languages and Tools
 
 <div style="text-align: center">
